@@ -33,7 +33,7 @@ avatar: '/assets/img/profile.jpg'
 search: true
 
 # Night mode
-nightMode: false
+nightMode: true
 
 # Comments 评论功能
 comments:
