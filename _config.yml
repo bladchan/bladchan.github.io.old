@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'Jeason\'s Blog'
+title: '一个奇怪的博客'
 description: ''
-keyword: 'Jeason\'s Blog'
+keyword: '一个奇怪的博客'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
