@@ -45,7 +45,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['github']
+social-share-items: ['wechat', 'weibo', 'douban','twitter']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
@@ -57,6 +57,7 @@ postPatterns: 'food'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   github: '//github.com/bladchan'
+  zhihu: '//www.zhihu.com/people/tai-zai-zhi-2-63'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
