@@ -2,7 +2,7 @@
 title: '一个奇怪的博客'
 description: '分享自己学习经历的博客'
 keyword: '一个奇怪的博客'
-url: '' # your host
+url: 'https://www.bladchan.ml' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
