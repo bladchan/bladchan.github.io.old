@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Windows下右键新建.md文件'
-date: 2020-05-11
+date: 2020-05-20
 categories: 技术
 tags: 小知识
 ---
