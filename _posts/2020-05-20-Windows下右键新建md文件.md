@@ -35,7 +35,7 @@ Windows Registry Editor Version 5.00
 `@="Typora.exe" `代表的是指定.md文件的运行程序；
 `@="Markdown" `代表的是右键时默认的文件名字，这样写新建的文件名为`新建Markdown.md`，同时右键菜单中显示`MarkDown`。
 
-**注意：需要将新建的txt文档另存为.reg后缀的文件，同时需要将编码设置为Unicode，如果不存在Unicode，可选择UTF-16 LE编码方式，如下图：**
+**注意：需要将新建的txt文档另存为.reg后缀的文件，同时需要将编码设置为Unicode，如果没有Unicode选项，可选择UTF-16 LE编码方式，如下图：**
 
 ![](https://www.bladchan.ml/assets/img/mdsavesetting.png)
 
