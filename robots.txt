@@ -1,0 +1,7 @@
+# Crafted for https://www.bladchan.ml
+
+User-agent: *
+
+Disallow: 
+
+Sitemap: /sitemap.xml
